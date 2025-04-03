@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test line
-=======
-test
->>>>>>> e80cd19 (change comment project + add test file)
